@@ -1,0 +1,3 @@
+To use that tool you just need to open your Linux terminal and type
+
+ python Network_scanner.py
