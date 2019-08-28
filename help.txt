@@ -1,3 +1,5 @@
 To use that tool you just need to open your Linux terminal and type
 
  python Network_scanner.py
+
+for run using python3 you need to add scapy library in ur linux
